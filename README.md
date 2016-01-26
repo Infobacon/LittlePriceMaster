@@ -1,4 +1,4 @@
-# CineAltiro-
+# LittlePrice
 Proyecto Fundamentos de Ingenieria en Software 
 
 
@@ -27,9 +27,9 @@ Una vez configurada la ruta abran la terminal y ingresen "python" si les sale el
 8) Instalen xampp , fijense de que tenga apache,mysql,phpmyadmin tickeados al momento de instalarlo
 https://www.apachefriends.org/xampp-files/5.5.24/xampp-win32-5.5.24-0-VC11-installer.exe
 
-9) corran xampp (fijense de correr apache y mysql) y entren al phpmyadmin y creen una base de datos llamada "cinealtiro"
+9) corran xampp (fijense de correr apache y mysql) y entren al phpmyadmin y creen la base de datos 
 
-10) tickeen la base de datos y importen el "cinealtiro.sql" que esta dentro de la carpeta CineAltiro del rar, con eso poblan toda la bd.
+10) tickeen la base de datos y importen el sql.
 
 
 
@@ -42,10 +42,7 @@ https://www.apachefriends.org/xampp-files/5.5.24/xampp-win32-5.5.24-0-VC11-insta
 14) pip install dj-static
 pip install django-bootstrap-typeahead para el buscador
 
- Ingresen desde la consola a la ruta C:/Python27/Lib/site-pachages/CineAltiro/Pinkys
-y  ponen: python manage.py migrate y luego: python manage.py runserver .
 
- Si hicieron todo bien  , pueden ver la aplicacion en el navegador ingresando localhost:8000/home 
 
 
 
